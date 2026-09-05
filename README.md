@@ -2,6 +2,14 @@
 
 Teach Me is a desktop app that turns a folder into a self-paced course taught by an AI agent (Claude Code, Copilot CLI, opencode, or an API key). This repo only holds the built releases; the source lives in a private repo.
 
+## Screenshots
+
+![Courses](screenshots/courses.png)
+
+![A lesson with the teacher chat](screenshots/course.png)
+
+![Settings](screenshots/settings.png)
+
 ## Download
 
 **[Latest release](https://github.com/mateutek/teach-me-releases/releases/latest)**
