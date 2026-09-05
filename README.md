@@ -16,8 +16,7 @@ Teach Me is a desktop app that turns a folder into a self-paced course taught by
 
 | Platform | File to download |
 |---|---|
-| macOS, Apple Silicon | `Teach-Me_<version>_aarch64.dmg` |
-| macOS, Intel | `Teach-Me_<version>_x64.dmg` |
+| macOS (Apple Silicon) | `Teach-Me_<version>_aarch64.dmg` |
 | Windows | `Teach-Me_<version>_x64-setup.exe` |
 
 Once installed, the app updates itself.
